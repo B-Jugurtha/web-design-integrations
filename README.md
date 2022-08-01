@@ -28,7 +28,9 @@
 
 ### Built With
 
--  [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) A badge used for projects that coded with JavaScript
+Javascript
+
+<!-- -  [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) A badge used for projects that coded with JavaScript -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
