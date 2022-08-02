@@ -484,7 +484,7 @@ footer {
 		transform: matrix(1, 0, 0, 1, 0, 0);
 	}
 	100% {
-		transform: matrix(1, 0, 0, 1, 0, -42);
+		transform: matrix(1, 0, 0, 1, 0, -39.75);
 	}
 }
 @keyframes count-up-4 {
@@ -492,7 +492,7 @@ footer {
 		transform: matrix(1, 0, 0, 1, 0, 0);
 	}
 	100% {
-		transform: matrix(1, 0, 0, 1, 0, -125.5);
+		transform: matrix(1, 0, 0, 1, 0, -121.75);
 	}
 }
 @keyframes count-up-5 {
@@ -500,7 +500,7 @@ footer {
 		transform: matrix(1, 0, 0, 1, 0, 0);
 	}
 	100% {
-		transform: matrix(1, 0, 0, 1, 0, -166.9);
+		transform: matrix(1, 0, 0, 1, 0, -162.75);
 	}
 }
 @keyframes count-up-6 {
@@ -508,7 +508,7 @@ footer {
 		transform: matrix(1, 0, 0, 1, 0, 0);
 	}
 	100% {
-		transform: matrix(1, 0, 0, 1, 0, -208.8);
+		transform: matrix(1, 0, 0, 1, 0, -204);
 	}
 }
 @keyframes star-1 {
