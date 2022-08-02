@@ -33,7 +33,7 @@ Page preview : https://codesandbox.io/s/github/B-Jugurtha/web-design-integration
 ### Credits
 
 This project was designed by:
-[Abhishek Saha](https://www.behance.net/abhisheksaha1) & [Riten Debnath](https://www.behance.net/ritendn) </br>
+[Abhishek Saha](https://fueler.io/saha) & [Riten Debnath](https://fueler.io/ritendn) </br>
 [The design](https://www.behance.net/gallery/148815795/ROM-Website-UI-Design) is availble on (https://dopeui.co/)
 
 ## License
