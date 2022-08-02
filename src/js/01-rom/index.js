@@ -138,8 +138,6 @@ document.onreadystatechange = function () {
 window.addEventListener('scroll', showDetails);
 
 function showDetails() {
-	console.log(specsId.getBoundingClientRect().top);
-	console.log((window.innerHeight / 5) * 3);
 	const triggerPoint = (window.innerHeight / 5) * 3;
 
 	if (specsId.getBoundingClientRect().top < triggerPoint && specsId.getBoundingClientRect().top > -230) {

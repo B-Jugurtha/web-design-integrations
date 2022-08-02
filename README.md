@@ -6,8 +6,8 @@
 <h1 align="center">Web design integrations</h1>
   </a>
 
-  <p align="center">
-    A collection of web design integration using js or react.</p>
+  <h3 align="center">
+    <b>A collection of web design integration using js or react.</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -22,23 +22,23 @@
 
 ## 01-Fitness Website
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+This project was build using uniquely hmtl css & javascript with no external libraries </br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Page preview : https://codesandbox.io/s/cranky-roentgen-vg4nvd - the website is not resposive, so please click on the "Open in new window" button (right of the address bar).
 
 ### Built With
 
-Javascript
+![javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&label=%20&message=javascript&color=000) ![html](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&label=%20&message=HTML&color=000) ![css](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&logoColor=ebebeb&label=%20&message=CSS&color=000)
 
-<!-- -  [![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) A badge used for projects that coded with JavaScript -->
+### Credits
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+This project was designed by:
+[Abhishek Saha](https://www.behance.net/abhisheksaha1) & [Riten Debnath](https://www.behance.net/ritendn) </br>
+[The design](https://www.behance.net/gallery/148815795/ROM-Website-UI-Design) is availble on (https://dopeui.co/)
 
 ## License
 
 Distributed under the MIT License.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -46,6 +46,7 @@ Distributed under the MIT License.
 
 <!-- Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com -->
 
-Project Link: [https://github.com/B-Jugurtha/web-design-integrations](https://github.com/B-Jugurtha/web-design-integrations)
+Project Link: [https://github.com/B-Jugurtha/web-design-integrations](https://github.com/B-Jugurtha/web-design-integrations) </br>
+Email: berrani.yougourtha@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
