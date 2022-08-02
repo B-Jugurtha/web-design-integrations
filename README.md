@@ -24,7 +24,7 @@
 
 This project was build using uniquely hmtl css & javascript with no external libraries </br>
 
-Page preview : https://codesandbox.io/s/range-of-motion-k824lf - the website is not resposive, so please click on the "Open in new window" button (right of the address bar).
+Page preview : https://codesandbox.io/s/github/B-Jugurtha/web-design-integrations/tree/main/src/js/01-rom - the website is not resposive, so please click on the "Open in new window" button (right of the address bar).
 
 ### Built With
 
