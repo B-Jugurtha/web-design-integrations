@@ -13,6 +13,9 @@ body {
 	font-weight: 500;
 	color: #fff;
 }
+button {
+	border:0;
+}
 .container {
 	max-width: 1200px;
 	margin: auto;
